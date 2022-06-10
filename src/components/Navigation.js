@@ -3,7 +3,7 @@ import React from "react";
 export default function Navigation() {
   return (
     <div>
-      <nav class="navbar navbar-expand-lg bg-light">
+      <nav class="navbar navbar-expand-lg bg-light mx-4 ">
         <div class="container-fluid">
           <button
             class="navbar-toggler"
@@ -30,9 +30,6 @@ export default function Navigation() {
                 <a class="nav-link" href="#">
                   Link
                 </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link disabled">Disabled</a>
               </li>
             </ul>
           </div>
