@@ -11,8 +11,8 @@ function Hero() {
           I'm a software engineer specializing in building and occasionally
           <br />
           designing exceptional digital experiences. Currently, <br />
-          I'm focused on building accessible, human-centered products at
-          Upstatement.
+          I'm focused on building accessible, python-based products as a
+          Freelancer.
         </p>
       </div>
     </div>
