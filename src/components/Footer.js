@@ -5,12 +5,12 @@ function Footer() {
   let year = today.getFullYear();
 
   return (
-    <footer class="footer fixed-bottom py-3 bg-light">
-      <div class="container mx-auto">
-        <div class="d-flex justify-content-center">
-          <div class="mx-1 text-muted">developer's joint</div>
-          <div class="mx-1">•</div>
-          <div class="mx-1 text-muted">© {year}</div>
+    <footer className="footer fixed-bottom py-3 bg-light">
+      <div className="container mx-auto">
+        <div className="d-flex justify-content-center">
+          <div className="mx-1 text-muted">developer's joint</div>
+          <div className="mx-1">•</div>
+          <div className="mx-1 text-muted">© {year}</div>
         </div>
       </div>
     </footer>

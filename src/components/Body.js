@@ -6,7 +6,7 @@ import Navigation from "./Navigation";
 
 function body() {
   return (
-    <div class="row">
+    <div className="row">
       <Navigation />
       <Externals />
       <Hero />
