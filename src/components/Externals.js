@@ -21,7 +21,7 @@ function Externals() {
             </a>
           </li>
           <li className="my-3">
-            <a href="https://www.instagram.com/mj.sauro/">
+            <a href="https://www.instagram.com/mr.mayaka/">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
