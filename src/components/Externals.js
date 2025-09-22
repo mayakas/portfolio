@@ -6,12 +6,12 @@ function Externals() {
       <div className="v-align">
         <ul>
           <li className="my-3">
-            <a href="https://www.linkedin.com/in/sauro-mayaka-a56050180/">
+            <a href="https://www.linkedin.com/in/mayakas/">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
           <li className="my-3">
-            <a href="https://github.com/JustineXp">
+            <a href="https://github.com/mayakas">
               <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
