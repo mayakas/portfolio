@@ -6,13 +6,14 @@ function Hero() {
       <div className="container-fluid px-4 v-align">
         <p className="above">Hi, my name is</p>
         <h1 className="fw-bold">Sauro Mayaka.</h1>
-        <h1 className="fw-bold">I build things for the web.</h1>
+        <h1 className="fw-bold">A Juniour Ethical Hacker.</h1>
         <p className="text-muted">
-          I'm a software engineer specializing in building and occasionally
+          I'm a explore digital system for vulnerabilites and weaknesses
           <br />
-          designing exceptional digital experiences. Currently, <br />
-          I'm focused on building accessible, python-based products as a
-          Freelancer.
+          for exceptional digital experiences. Currently, <br />
+          I'm pursuing the Ethical Hacker course on Cisco NetAcad, 
+          I enjoy hands-on challenges that strengthen my skills in system security,
+          penetration testing, and digital defense.
         </p>
       </div>
     </div>
